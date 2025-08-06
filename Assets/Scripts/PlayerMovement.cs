@@ -5,26 +5,55 @@ using UnityEngine.InputSystem;
 
 public class PlayerMovement : MonoBehaviour
 {
-    public Rigidbody2D rb;
-    public float moveSpeed = 5f;
+    private Rigidbody2D rb;
+    private PlayerInput playerInput;
 
+    [SerializeField] private float moveSpeed = 5f;
+    [SerializeField] private float jumpForce = 5f;
 
-    float horizontalMovement;
+    private Vector2 input;
 
-    void Start()
+    public bool isGrounded;
+
+    void Awake()
     {
         rb = GetComponent<Rigidbody2D>();
+        playerInput = GetComponent<PlayerInput>();
     }
 
     // Update is called once per frame
     void Update()
     {
-        rb.linearVelocity = new Vector2(horizontalMovement * moveSpeed, rb.linearVelocity.y);
+        input = playerInput.actions["Move"].ReadValue<Vector2>();
     }
 
-
-    public void Move(InputAction.CallbackContext context)
+    private void FixedUpdate()
     {
-        horizontalMovement = context.ReadValue<float>();
+        rb.linearVelocity = new Vector2(input.x * moveSpeed, rb.linearVelocity.y);
+    }
+
+    public void Jump(InputAction.CallbackContext context)
+    {
+        if (context.performed && isGrounded)
+        {
+            Debug.Log("Jump pressed");
+            rb.AddForce(Vector2.up * jumpForce, ForceMode2D.Impulse);
+        }
+    }
+
+    private void OnCollisionEnter2D(Collision2D other)
+    {
+        if (other.gameObject.CompareTag("Ground"))
+        {
+            isGrounded = true;
+        }
+    }
+
+    private void OnCollisionExit2D(Collision2D other)
+    {
+        if (other.gameObject.CompareTag("Ground"))
+        {
+            isGrounded = false;
+        }
     }
 }

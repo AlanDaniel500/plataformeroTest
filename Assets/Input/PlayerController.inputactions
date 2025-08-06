@@ -2,13 +2,22 @@
     "name": "PlayerController",
     "maps": [
         {
-            "name": "Player",
-            "id": "5055f86a-64b2-4d6b-9e76-db1c17dbc00a",
+            "name": "Movement",
+            "id": "d004ac37-da09-4437-9737-d4099fd302f7",
             "actions": [
+                {
+                    "name": "Jump",
+                    "type": "Button",
+                    "id": "26dc7600-252d-4556-843e-3d2978084be9",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
                 {
                     "name": "Move",
                     "type": "Value",
-                    "id": "7c99e0cd-bc8d-46ff-a6e1-a2f7005420d2",
+                    "id": "9a846182-eaad-4cbe-a78e-e337ced3494b",
                     "expectedControlType": "Vector2",
                     "processors": "",
                     "interactions": "",
@@ -18,47 +27,58 @@
             "bindings": [
                 {
                     "name": "",
-                    "id": "ed1008dc-e411-4670-8690-7a6ec332d6e3",
-                    "path": "<Keyboard>/w",
+                    "id": "29db505b-42d8-4b04-93d3-82102544aa5b",
+                    "path": "<Gamepad>/buttonSouth",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
-                    "action": "Move",
+                    "action": "Jump",
                     "isComposite": false,
                     "isPartOfComposite": false
                 },
                 {
                     "name": "",
-                    "id": "03d39c8f-abf6-4c02-9f27-48dcfcfc9ff8",
-                    "path": "<Keyboard>/a",
+                    "id": "bb6290cb-e8b5-40ab-8397-d2f74c575778",
+                    "path": "<Keyboard>/space",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
-                    "action": "Move",
+                    "action": "Jump",
                     "isComposite": false,
                     "isPartOfComposite": false
                 },
                 {
-                    "name": "",
-                    "id": "5fba52a8-144f-4bd2-8104-cbdfac4dcff9",
-                    "path": "<Keyboard>/s",
+                    "name": "2D Vector",
+                    "id": "61185091-4ff7-4caa-9003-04769c7020b7",
+                    "path": "2DVector",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
                     "action": "Move",
-                    "isComposite": false,
+                    "isComposite": true,
                     "isPartOfComposite": false
                 },
                 {
-                    "name": "",
-                    "id": "69048a61-e985-417f-acb8-bc71a292670f",
-                    "path": "<Keyboard>/d",
+                    "name": "left",
+                    "id": "00cac169-8796-4ed6-86a0-11d0ef3987fc",
+                    "path": "<Gamepad>/dpad/left",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
                     "action": "Move",
                     "isComposite": false,
-                    "isPartOfComposite": false
+                    "isPartOfComposite": true
+                },
+                {
+                    "name": "right",
+                    "id": "00e447f3-ca1e-4e3e-8157-887c5bf2935f",
+                    "path": "<Gamepad>/dpad/right",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Move",
+                    "isComposite": false,
+                    "isPartOfComposite": true
                 }
             ]
         }
@@ -68,6 +88,22 @@
             "name": "New Control Scheme",
             "bindingGroup": "New Control Scheme",
             "devices": [
+                {
+                    "devicePath": "<Keyboard>",
+                    "isOptional": false,
+                    "isOR": false
+                }
+            ]
+        },
+        {
+            "name": "Player controller",
+            "bindingGroup": "Player controller",
+            "devices": [
+                {
+                    "devicePath": "<Gamepad>",
+                    "isOptional": false,
+                    "isOR": false
+                },
                 {
                     "devicePath": "<Keyboard>",
                     "isOptional": false,
