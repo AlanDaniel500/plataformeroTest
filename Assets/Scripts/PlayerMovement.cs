@@ -11,28 +11,25 @@ public class PlayerMovement : MonoBehaviour
     [SerializeField] private float moveSpeed = 5f;
     [SerializeField] private float jumpForce = 5f;
 
+    private Vector2 input;
 
     public bool isGrounded;
-    float horizontalMovement;
 
     void Awake()
     {
         rb = GetComponent<Rigidbody2D>();
-
+        playerInput = GetComponent<PlayerInput>();
     }
 
     // Update is called once per frame
     void Update()
     {
-       rb.linearVelocity = new Vector2(horizontalMovement * moveSpeed, rb.linearVelocity.y);
+        input = playerInput.actions["Move"].ReadValue<Vector2>();
     }
 
-
-    public void Move(InputAction.CallbackContext context)
+    private void FixedUpdate()
     {
-        Vector2 inputVector = context.ReadValue<Vector2>();
-
-        rb.linearVelocity = new Vector2(inputVector.x * moveSpeed, rb.linearVelocity.y);
+        rb.linearVelocity = new Vector2(input.x * moveSpeed, rb.linearVelocity.y);
     }
 
     public void Jump(InputAction.CallbackContext context)
@@ -43,7 +40,6 @@ public class PlayerMovement : MonoBehaviour
             rb.AddForce(Vector2.up * jumpForce, ForceMode2D.Impulse);
         }
     }
-
 
     private void OnCollisionEnter2D(Collision2D other)
     {

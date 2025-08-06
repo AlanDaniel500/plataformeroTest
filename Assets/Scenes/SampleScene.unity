@@ -297,6 +297,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   moveSpeed: 5
   jumpForce: 5
+  isGrounded: 0
 --- !u!114 &274308474
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -339,19 +340,7 @@ MonoBehaviour:
     m_ActionId: 26dc7600-252d-4556-843e-3d2978084be9
     m_ActionName: 'Movement/Jump[/DualShock4GamepadHID/buttonSouth]'
   - m_PersistentCalls:
-      m_Calls:
-      - m_Target: {fileID: 274308473}
-        m_TargetAssemblyTypeName: PlayerMovement, Assembly-CSharp
-        m_MethodName: Move
-        m_Mode: 0
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
+      m_Calls: []
     m_ActionId: 9a846182-eaad-4cbe-a78e-e337ced3494b
     m_ActionName: 'Movement/Move[/DualShock4GamepadHID/dpad/left,/DualShock4GamepadHID/dpad/right]'
   m_NeverAutoSwitchControlSchemes: 0
