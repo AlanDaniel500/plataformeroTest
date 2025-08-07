@@ -11,6 +11,7 @@ public class PlayerMovement : MonoBehaviour
     [SerializeField] private float moveSpeed = 5f;
     [SerializeField] private float jumpForce = 5f;
 
+    [SerializeField] private Animator Animator;
     private Vector2 input;
 
     public bool isGrounded;
@@ -25,11 +26,30 @@ public class PlayerMovement : MonoBehaviour
     void Update()
     {
         input = playerInput.actions["Move"].ReadValue<Vector2>();
+
+        // Activar animación si se está moviendo
+        Animator.SetBool("isRunning", Mathf.Abs(input.x) > 0.01f);
+
+        // Animación de salto (cuando está en el aire)
+        Animator.SetBool("IsJumping", !isGrounded);
+        Animator.SetBool("IsFalling", rb.linearVelocity.y < -0.1f && !isGrounded);
+  
     }
 
     private void FixedUpdate()
     {
         rb.linearVelocity = new Vector2(input.x * moveSpeed, rb.linearVelocity.y);
+
+        // Flip del sprite si se mueve a la izquierda o derecha
+        if (input.x > 0.01f)
+        {
+            GetComponent<SpriteRenderer>().flipX = false; // Mira a la derecha
+        }
+        else if (input.x < -0.01f)
+        {
+            GetComponent<SpriteRenderer>().flipX = true; // Mira a la izquierda
+        }
+
     }
 
     public void Jump(InputAction.CallbackContext context)
@@ -46,6 +66,7 @@ public class PlayerMovement : MonoBehaviour
         if (other.gameObject.CompareTag("Ground"))
         {
             isGrounded = true;
+            Animator.SetBool("IsJumping", !isGrounded);
         }
     }
 
@@ -54,6 +75,7 @@ public class PlayerMovement : MonoBehaviour
         if (other.gameObject.CompareTag("Ground"))
         {
             isGrounded = false;
+    
         }
     }
 }
