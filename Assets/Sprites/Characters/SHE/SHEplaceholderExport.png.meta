@@ -1,0 +1,1285 @@
+fileFormatVersion: 2
+guid: 7225d9138989f0c4db3168f179640625
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1898130784967184622
+    second: SHEplaceholderExport_0
+  - first:
+      213: 8611651041700467804
+    second: SHEplaceholderExport_1
+  - first:
+      213: 6067921144750592850
+    second: SHEplaceholderExport_2
+  - first:
+      213: -2777515074985259328
+    second: SHEplaceholderExport_3
+  - first:
+      213: 8783156321246907917
+    second: SHEplaceholderExport_4
+  - first:
+      213: -1317930966243843644
+    second: SHEplaceholderExport_5
+  - first:
+      213: -4181161003947768222
+    second: SHEplaceholderExport_6
+  - first:
+      213: 6026727439329274450
+    second: SHEplaceholderExport_7
+  - first:
+      213: 2636016008539245449
+    second: SHEplaceholderExport_8
+  - first:
+      213: -3492605651527391857
+    second: SHEplaceholderExport_9
+  - first:
+      213: -9203610394022273851
+    second: SHEplaceholderExport_10
+  - first:
+      213: -7908237048099492570
+    second: SHEplaceholderExport_11
+  - first:
+      213: -3671411824501018505
+    second: SHEplaceholderExport_12
+  - first:
+      213: 1547341953528474970
+    second: SHEplaceholderExport_13
+  - first:
+      213: -1672819362003681511
+    second: SHEplaceholderExport_14
+  - first:
+      213: 1832803072066181950
+    second: SHEplaceholderExport_15
+  - first:
+      213: -5319158803074024842
+    second: SHEplaceholderExport_16
+  - first:
+      213: 4161967391761363620
+    second: SHEplaceholderExport_17
+  - first:
+      213: -4729773571011099455
+    second: SHEplaceholderExport_18
+  - first:
+      213: 3663817942804897104
+    second: SHEplaceholderExport_19
+  - first:
+      213: 8569002664304089539
+    second: SHEplaceholderExport_20
+  - first:
+      213: 9067966964710036048
+    second: SHEplaceholderExport_21
+  - first:
+      213: 1308535579568111030
+    second: SHEplaceholderExport_22
+  - first:
+      213: -2378769884003859542
+    second: SHEplaceholderExport_23
+  - first:
+      213: -8119636672594046147
+    second: SHEplaceholderExport_24
+  - first:
+      213: -6842972761797889318
+    second: SHEplaceholderExport_25
+  - first:
+      213: 54921270450607026
+    second: SHEplaceholderExport_26
+  - first:
+      213: -5905997360206270219
+    second: SHEplaceholderExport_27
+  - first:
+      213: 3778635263877840489
+    second: SHEplaceholderExport_28
+  - first:
+      213: -1610110884388269172
+    second: SHEplaceholderExport_29
+  - first:
+      213: 8731378210335818168
+    second: SHEplaceholderExport_30
+  - first:
+      213: -3791600779002419595
+    second: SHEplaceholderExport_31
+  - first:
+      213: -5658000280447611574
+    second: SHEplaceholderExport_32
+  - first:
+      213: -7189123935600834042
+    second: SHEplaceholderExport_33
+  - first:
+      213: 6962052917714419452
+    second: SHEplaceholderExport_34
+  - first:
+      213: -1634829418407907290
+    second: SHEplaceholderExport_35
+  - first:
+      213: -513153311551284007
+    second: SHEplaceholderExport_36
+  - first:
+      213: -8696590803674073167
+    second: SHEplaceholderExport_37
+  - first:
+      213: -5356823570223936935
+    second: SHEplaceholderExport_38
+  - first:
+      213: 4211031718106422614
+    second: SHEplaceholderExport_39
+  - first:
+      213: 8602339404164124291
+    second: SHEplaceholderExport_40
+  - first:
+      213: 4033391224089432338
+    second: SHEplaceholderExport_41
+  - first:
+      213: -96221135972317625
+    second: SHEplaceholderExport_42
+  - first:
+      213: 4652356394515406387
+    second: SHEplaceholderExport_43
+  - first:
+      213: -8861175940173880008
+    second: SHEplaceholderExport_44
+  - first:
+      213: -2859197019377848717
+    second: SHEplaceholderExport_45
+  - first:
+      213: 6573149404988346592
+    second: SHEplaceholderExport_46
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SHEplaceholderExport_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 318
+        width: 55
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee0d33764e3875a10800000000000000
+      internalID: 1898130784967184622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEplaceholderExport_1
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 318
+        width: 55
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c54dd26fefab28770800000000000000
+      internalID: 8611651041700467804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEplaceholderExport_2
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 318
+        width: 55
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 253d0f5c126953450800000000000000
+      internalID: 6067921144750592850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEplaceholderExport_3
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 318
+        width: 55
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ce063551c84479d0800000000000000
+      internalID: -2777515074985259328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEplaceholderExport_4
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 318
+        width: 55
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0e06a6932a04e970800000000000000
+      internalID: 8783156321246907917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEplaceholderExport_5
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 318
+        width: 55
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c16c86d4c4c5bde0800000000000000
+      internalID: -1317930966243843644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEplaceholderExport_6
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 318
+        width: 55
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2664afa383889f5c0800000000000000
+      internalID: -4181161003947768222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEplaceholderExport_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 265
+        width: 55
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25a2253dcac33a350800000000000000
+      internalID: 6026727439329274450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEplaceholderExport_8
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 265
+        width: 55
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98b8933f792059420800000000000000
+      internalID: 2636016008539245449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEplaceholderExport_9
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 265
+        width: 55
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8520302aa5c78fc0800000000000000
+      internalID: -3492605651527391857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEplaceholderExport_10
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 265
+        width: 55
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cc95350c15364080800000000000000
+      internalID: -9203610394022273851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEplaceholderExport_11
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 265
+        width: 55
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62d227ced4c404290800000000000000
+      internalID: -7908237048099492570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEplaceholderExport_12
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 265
+        width: 55
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 770b278c5668c0dc0800000000000000
+      internalID: -3671411824501018505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEplaceholderExport_13
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 265
+        width: 55
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5daf1efe43497510800000000000000
+      internalID: 1547341953528474970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEplaceholderExport_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 212
+        width: 55
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91fff5a37a3f8c8e0800000000000000
+      internalID: -1672819362003681511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEplaceholderExport_15
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 212
+        width: 55
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3bdfb5feac6f6910800000000000000
+      internalID: 1832803072066181950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEplaceholderExport_16
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 212
+        width: 55
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67a71ee204d8e26b0800000000000000
+      internalID: -5319158803074024842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEplaceholderExport_17
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 212
+        width: 55
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a2f1b0ba4742c930800000000000000
+      internalID: 4161967391761363620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEplaceholderExport_18
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 212
+        width: 55
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c44adf1ff77c5eb0800000000000000
+      internalID: -4729773571011099455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEplaceholderExport_19
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 212
+        width: 55
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05d969ad10f78d230800000000000000
+      internalID: 3663817942804897104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEplaceholderExport_20
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 212
+        width: 55
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c9983dc5863be670800000000000000
+      internalID: 8569002664304089539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEplaceholderExport_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 159
+        width: 55
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 052d48609e3e7dd70800000000000000
+      internalID: 9067966964710036048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEplaceholderExport_22
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 159
+        width: 55
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bdfd1c3d2ad82210800000000000000
+      internalID: 1308535579568111030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEplaceholderExport_23
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 159
+        width: 55
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa38d8dc469ecfed0800000000000000
+      internalID: -2378769884003859542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEplaceholderExport_24
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 159
+        width: 55
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d331cc84771415f80800000000000000
+      internalID: -8119636672594046147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEplaceholderExport_25
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 159
+        width: 55
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad2fc5d5780e801a0800000000000000
+      internalID: -6842972761797889318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEplaceholderExport_26
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 159
+        width: 55
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b352dfba9e13c000800000000000000
+      internalID: 54921270450607026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEplaceholderExport_27
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 159
+        width: 55
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f0b28431bea90ea0800000000000000
+      internalID: -5905997360206270219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEplaceholderExport_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 106
+        width: 55
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96ef33f90c8607430800000000000000
+      internalID: 3778635263877840489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEplaceholderExport_29
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 106
+        width: 55
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c831c0f6eacb7a9e0800000000000000
+      internalID: -1610110884388269172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEplaceholderExport_30
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 106
+        width: 55
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b107a2b8361c2970800000000000000
+      internalID: 8731378210335818168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEplaceholderExport_31
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 106
+        width: 55
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57667752e27816bc0800000000000000
+      internalID: -3791600779002419595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEplaceholderExport_32
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 106
+        width: 55
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4d0cd8e8beba71b0800000000000000
+      internalID: -5658000280447611574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEplaceholderExport_33
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 106
+        width: 55
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60a0144ced91b3c90800000000000000
+      internalID: -7189123935600834042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEplaceholderExport_34
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 106
+        width: 55
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfef6dbfd3e2e9060800000000000000
+      internalID: 6962052917714419452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEplaceholderExport_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 53
+        width: 55
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 620307f3e4bef49e0800000000000000
+      internalID: -1634829418407907290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEplaceholderExport_36
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 53
+        width: 55
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dc9bad28c9e0e8f0800000000000000
+      internalID: -513153311551284007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEplaceholderExport_37
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 53
+        width: 55
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b7f3169db08f4780800000000000000
+      internalID: -8696590803674073167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEplaceholderExport_38
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 53
+        width: 55
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95acc54385db8a5b0800000000000000
+      internalID: -5356823570223936935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEplaceholderExport_39
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 53
+        width: 55
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65dd2af5907907a30800000000000000
+      internalID: 4211031718106422614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEplaceholderExport_40
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 53
+        width: 55
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38e4c866c16a16770800000000000000
+      internalID: 8602339404164124291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEplaceholderExport_41
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 53
+        width: 55
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2115700d2fb79f730800000000000000
+      internalID: 4033391224089432338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEplaceholderExport_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 55
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7464c7af2672aaef0800000000000000
+      internalID: -96221135972317625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEplaceholderExport_43
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 0
+        width: 55
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33e9b97dd7d709040800000000000000
+      internalID: 4652356394515406387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 0558732aeac5e8a4588a9d9da43f4f22
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":55.0,"y":54.0},"gridSpriteSize":{"x":55.0,"y":53.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      SHEplaceholderExport_0: 1898130784967184622
+      SHEplaceholderExport_1: 8611651041700467804
+      SHEplaceholderExport_10: -9203610394022273851
+      SHEplaceholderExport_11: -7908237048099492570
+      SHEplaceholderExport_12: -3671411824501018505
+      SHEplaceholderExport_13: 1547341953528474970
+      SHEplaceholderExport_14: -1672819362003681511
+      SHEplaceholderExport_15: 1832803072066181950
+      SHEplaceholderExport_16: -5319158803074024842
+      SHEplaceholderExport_17: 4161967391761363620
+      SHEplaceholderExport_18: -4729773571011099455
+      SHEplaceholderExport_19: 3663817942804897104
+      SHEplaceholderExport_2: 6067921144750592850
+      SHEplaceholderExport_20: 8569002664304089539
+      SHEplaceholderExport_21: 9067966964710036048
+      SHEplaceholderExport_22: 1308535579568111030
+      SHEplaceholderExport_23: -2378769884003859542
+      SHEplaceholderExport_24: -8119636672594046147
+      SHEplaceholderExport_25: -6842972761797889318
+      SHEplaceholderExport_26: 54921270450607026
+      SHEplaceholderExport_27: -5905997360206270219
+      SHEplaceholderExport_28: 3778635263877840489
+      SHEplaceholderExport_29: -1610110884388269172
+      SHEplaceholderExport_3: -2777515074985259328
+      SHEplaceholderExport_30: 8731378210335818168
+      SHEplaceholderExport_31: -3791600779002419595
+      SHEplaceholderExport_32: -5658000280447611574
+      SHEplaceholderExport_33: -7189123935600834042
+      SHEplaceholderExport_34: 6962052917714419452
+      SHEplaceholderExport_35: -1634829418407907290
+      SHEplaceholderExport_36: -513153311551284007
+      SHEplaceholderExport_37: -8696590803674073167
+      SHEplaceholderExport_38: -5356823570223936935
+      SHEplaceholderExport_39: 4211031718106422614
+      SHEplaceholderExport_4: 8783156321246907917
+      SHEplaceholderExport_40: 8602339404164124291
+      SHEplaceholderExport_41: 4033391224089432338
+      SHEplaceholderExport_42: -96221135972317625
+      SHEplaceholderExport_43: 4652356394515406387
+      SHEplaceholderExport_5: -1317930966243843644
+      SHEplaceholderExport_6: -4181161003947768222
+      SHEplaceholderExport_7: 6026727439329274450
+      SHEplaceholderExport_8: 2636016008539245449
+      SHEplaceholderExport_9: -3492605651527391857
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
